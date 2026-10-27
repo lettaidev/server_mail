@@ -1,5 +1,5 @@
 
-# LTT Email with Python 
+# Simple Server Temp Mail with Python
 
 ## Dockerized Installation (Coming Soon)
 
